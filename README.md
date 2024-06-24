@@ -7,7 +7,7 @@ And that's the implementation
 ### Secure payment processing when the user submits the order:
 
 - I will use a payment gateway like Stripe and integrate it to handle payment processing
--Create an API route in Next.js to handle payment intent creation using Stripe's server-side SDK
+- Create an API route in Next.js to handle payment intent creation using Stripe's server-side SDK
 
 ### Error handling in case the payment failed or something went wrong
 
